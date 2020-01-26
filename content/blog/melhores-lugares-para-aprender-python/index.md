@@ -53,7 +53,7 @@ Sério, se eu ficasse até o final de dezembro aqui rasgando elogios por texto p
 [Python para Todos | University of Michigan | Coursera](https://pt.coursera.org/learn/python) <br/> 
 [Introduction to CS and Programming in Python | MIT](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)  <br/> 
 [Introdução à Ciência da Computação com Python | USP](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos) <br/>
-[]() <br/> 
+[Python3 | Udemy](https://www.udemy.com/course/curso-python-3-completo/) <br/> 
 [CodeShow | Bruno Rocha](https://www.youtube.com/user/brunovegan)
 
 ---
@@ -86,6 +86,6 @@ Aqui está uma alternativa ao livro acima. Também [disponível online do jeito 
 
 Python tem uma das comunidades mais inclusivas para novos(as) pessoas desenvolvedoras. Não é atoa que o lema é _"Pessoas > Tecnologia"_. E, em função disso, entrar em contato com as comunidades pode ser um ponto de inflexão no seu aprendizado.
 
-Para se integrar mais, você pode entrar nos [grupos do telegram](https://github.com/alexmoreno/telegram-br) da linguagem (a galera é super receptiva com dúvidas!) e pode frequentar eventos da comunidade. Dá uma olhadinha pelo [Meetup](https://www.meetup.com/pt-BR/). Provavelmente há um evento do GruPy, do SciPy ou do PyData agendado para os próximos dias! Além disso,você ainda pode utilizar o próprio site da linguagem para verificar eventos regionais ou nacionais. 
+Para se integrar mais, você pode entrar nos [grupos do telegram](https://github.com/alexmoreno/telegram-br) da linguagem (a galera é super receptiva com dúvidas!) e pode frequentar eventos da comunidade. Dá uma olhadinha pelo [Meetup](https://www.meetup.com/pt-BR/). Provavelmente há um evento do GruPy, do SciPy ou do PyData agendado para os próximos dias! Além disso,você ainda pode utilizar o próprio site da linguagem para [verificar eventos regionais ou nacionais](https://python.org.br/eventos/). 
 
 ![Python Brasil](http://d1gkntzr8mxq7s.cloudfront.net/5ac4bf0665b68.jpg)
