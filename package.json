@@ -2,9 +2,9 @@
   "name": "blog",
   "description": "Personal Blog by Cardu.",
   "version": "0.1.0",
-  "author": "Carlos EA. Batista <0800@cardu.dev>",
+  "author": "Carlos EA. Batista <0800@okrdu.dev>",
   "bugs": {
-    "url": "https://github.com/el-cardu/blog/issues"
+    "url": "https://github.com/okrdu/blog/issues"
   },
   "dependencies": {
     "gatsby": "^2.18.12",
@@ -38,14 +38,14 @@
   "devDependencies": {
     "prettier": "^1.19.1"
   },
-  "homepage": "https://github.com/el-cardu/blog#readme",
+  "homepage": "https://github.com/okrdu/blog#readme",
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/el-cardu/blog.git"
+    "url": "git+https://github.com/okrdu/blog.git"
   },
   "scripts": {
     "build": "gatsby build",
