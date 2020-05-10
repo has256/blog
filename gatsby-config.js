@@ -3,9 +3,9 @@ module.exports = {
     title: `Hardboiled Code`,
     author: `Cardu`,
     description: `Personal blog by Cardu.`,
-    siteUrl: `https://blog.cardu.dev`,
+    siteUrl: `https://blog.okrdu.dev`,
     social: {
-      twitter: `el_cardu`,
+      twitter: `okrdu_`,
     },
   },
   plugins: [
